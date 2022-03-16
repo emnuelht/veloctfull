@@ -1,0 +1,48 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: block;
+  margin: 50px auto;
+  border-radius: 10px;
+  border: 5px inset rgb(130, 124, 124);
+}
+
+.text-caracteristicas {
+  position: absolute;
+  left: 50px;
+  color: #ffffff;
+  font-family: monospace;
+  width: 300px;
+  text-align: center;
+}
+
+h1{
+  margin: 50px 5px;
+}
+
+#w {
+  font-size: 20pt;
+  margin: 0 132px;
+  background-color: #2e2e2e;
+  padding: 5px 10px;
+  width: 15px;
+  color: #b3b3b3;
+}
+
+#a,#s,#d {
+  font-size: 20pt;
+  background-color: #2e2e2e;
+  padding: 5px 10px;
+  width: 15px;
+  color: #b3b3b3;
+}
+
+.asd {
+  display: flex;
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+}
